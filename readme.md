@@ -7,10 +7,10 @@ Observera att ingen OOP introducerades idag, detta sker 18e november. Alla övni
 
 ## Övningar
 
-[Främst övning 1-3 från förra tillfället](https://github.com/fe22-kyh/dom-11-november)
-[Object bootcamp](exercises/README.md)
+- [Främst övning 1-3 från förra tillfället](https://github.com/fe22-kyh/dom-11-november)
+- [Object bootcamp](exercises/README.md)
 
-## Material
+## Material på OOP
 
-[MDN working with objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-[MDN using classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_Classes)
+- [MDN working with objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+- [MDN using classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_Classes)
